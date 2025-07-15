@@ -1,2 +1,2 @@
 # GIT
-This is folder about myGIT learnings 
+This is folder about my GIT learnings 
